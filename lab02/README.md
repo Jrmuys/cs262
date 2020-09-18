@@ -1,4 +1,4 @@
-# Lab 2
+# CS 262 - Lab 2
 
 ## What is the name of the _component_ in this application?
 

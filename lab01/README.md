@@ -1,4 +1,4 @@
-# Lab 01
+# CS 262 Lab 01
 
 This lab is based on the [cs262-code/lab01](https://github.com/kvlinden-courses/cs262-code/tree/master/lab01)
 
