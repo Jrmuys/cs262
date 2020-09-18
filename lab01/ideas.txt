@@ -1,0 +1,9 @@
+One idea is an app that can find class locations on campus to make it easier to find classrooms. 
+This would make it much easier to find classrooms and give you the fastest way to get to class 
+from any location on campus.
+
+Another idea is to make an app that does a different random thing every time you open it. 
+One time it could be an app that shows you all the best cupcake places near you and the next 
+it could be a game that requires you to find hedgehogs in a swamp. These would be generated from a list
+of core apps, then themes and subjects that could produce some interesting results. Not sure how useful it would
+be but it would be cool.

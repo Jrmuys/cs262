@@ -1,0 +1,26 @@
+1.
+    a. junior
+    b. BCS, BSE (electrical)
+    c. A, A
+
+2.
+    a. I have worked with a javascript application. This past summer I created a website using the Angular framework
+     (with typescript) so I am familiar with using a js framework. We briefly used SQLite in CS300 and I used a non-
+     sql database with my previously mentioned web app (mongoDB) but I don't have a ton of experience directly with
+     sql database systems.
+    b. I have used slack extensively for the Calvin Mars Rover Design Team as we do most non-verbal communication through that.
+     I use trello for personal organization and also to organize projects for the rover team. I used it to organize tasks that
+     had to be done for my website this summer as well. I use git and github for the rover team as well as my large personal projects
+     to varying levels of success (and is CS344 last semester).
+    c. I would like to work on an app that can help students find their way through campus and find classrooms.
+
+3. 
+    a. O: 81
+       C: 65
+       E: 37
+       A: 62.5
+       N: 29
+
+    b. I would like to work with Duncan, Alex Johnson, Hyechan Jun and Haram
+
+4. Nope.
