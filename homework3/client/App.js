@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import * as Font from 'expo-font';
 import { AppLoading } from 'expo';
 import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator } from '@react-navigation/stack';
 
 import Navigator from './routes/drawer';
 
@@ -16,17 +15,16 @@ export default function App() {
 
   if (fontsLoaded) {
     return (
-        <NavigationContainer>
-            <Navigator />
-        </NavigationContainer>
+      <NavigationContainer>
+        <Navigator />
+      </NavigationContainer>
     );
   } else {
     return (
-      <AppLoading 
-        startAsync={getFonts} 
-        onFinish={() => setFontsLoaded(true)} 
+      <AppLoading
+        startAsync={getFonts}
+        onFinish={() => setFontsLoaded(true)}
       />
     )
   }
-
 }
