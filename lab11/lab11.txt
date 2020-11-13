@@ -1,0 +1,4 @@
+Removed unused imports, removed trailing commas. Changed var to let or const 
+for all the variables. There were a few issues that I didn't change like a
+multiline ternary issue. There were also a few indentation issues that I 
+didn't agree with the analyzer on. Changed strings to single quotes.
